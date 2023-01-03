@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+}
+.ab{
+  text-align: center;
+  background-color: aqua;
+}
+.fname{
+color: red;
+font-size: 25px;
+
+}
+.lname{
+  color: blue;
+font-size: 25px;
+
+}
+.aa{
+color: deeppink;
+font-size: 40px;
+font-style: oblique;
+text-align: center;
+}
+.grade{
+
+
+  font-size: 25px;
+  color: crimson;
+
+
+
+
+}
+
